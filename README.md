@@ -1,4 +1,4 @@
-# Final Project for CS 5004 - (Free Game Library)
+# Free Game Library
 Project Name: Free Game Library
 
 ## Team Members
