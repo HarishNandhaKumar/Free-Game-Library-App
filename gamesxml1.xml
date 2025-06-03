@@ -1,0 +1,132 @@
+<GamesList>
+  <games>
+    <id>2</id>
+    <title>World of Tanks</title>
+    <thumbnail>https://www.freetogame.com/g/2/thumbnail.jpg</thumbnail>
+    <short_description>If you like blowing up tanks, with a quick and intense game style you will love this game!</short_description>
+    <game_url>https://www.freetogame.com/open/world-of-tanks</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Wargaming</publisher>
+    <developer>Wargaming</developer>
+    <release_date>2011-04-12</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/world-of-tanks</freetogame_profile_url>
+  </games>
+  <games>
+    <id>5</id>
+    <title>Crossout</title>
+    <thumbnail>https://www.freetogame.com/g/5/thumbnail.jpg</thumbnail>
+    <short_description>A post-apocalyptic MMO vehicle combat game! </short_description>
+    <game_url>https://www.freetogame.com/open/crossout</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Targem</publisher>
+    <developer>Gaijin</developer>
+    <release_date>2017-05-30</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/crossout</freetogame_profile_url>
+  </games>
+  <games>
+    <id>10</id>
+    <title>ArcheAge</title>
+    <thumbnail>https://www.freetogame.com/g/10/thumbnail.jpg</thumbnail>
+    <short_description>A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.</short_description>
+    <game_url>https://www.freetogame.com/open/archeage</game_url>
+    <genre>MMORPG</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Kakao Games</publisher>
+    <developer>XL Games</developer>
+    <release_date>2014-09-04</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/archeage</freetogame_profile_url>
+  </games>
+  <games>
+    <id>7</id>
+    <title>Armored Warfare</title>
+    <thumbnail>https://www.freetogame.com/g/7/thumbnail.jpg</thumbnail>
+    <short_description>A modern team-based MMO tank game from Obsidian Entertainment.</short_description>
+    <game_url>https://www.freetogame.com/open/armored-warfare</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>My.com (Mail.ru Group)</publisher>
+    <developer>Obsidian Entertainment</developer>
+    <release_date>2015-10-08</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/armored-warfare</freetogame_profile_url>
+  </games>
+  <games>
+    <id>6</id>
+    <title>Blade and Soul</title>
+    <thumbnail>https://www.freetogame.com/g/6/thumbnail.jpg</thumbnail>
+    <short_description>A free-to-play martial arts MMORPG that tasks players with learning combination attacks.</short_description>
+    <game_url>https://www.freetogame.com/open/blade-and-soul</game_url>
+    <genre>MMORPG</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>NCSoft</publisher>
+    <developer>NCSoft</developer>
+    <release_date>2016-01-19</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/blade-and-soul</freetogame_profile_url>
+  </games>
+  <games>
+    <id>9</id>
+    <title>World of Warships</title>
+    <thumbnail>https://www.freetogame.com/g/9/thumbnail.jpg</thumbnail>
+    <short_description>A 3D free to play naval action-themed MMO from the creators of World of Tanks! </short_description>
+    <game_url>https://www.freetogame.com/open/world-of-warships</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Wargaming</publisher>
+    <developer>Wargaming</developer>
+    <release_date>2015-07-02</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/world-of-warships</freetogame_profile_url>
+  </games>
+  <games>
+    <id>8</id>
+    <title>Trove</title>
+    <thumbnail>https://www.freetogame.com/g/8/thumbnail.jpg</thumbnail>
+    <short_description>A free to play Sandbox massively multiplayer online role-playing game! </short_description>
+    <game_url>https://www.freetogame.com/open/trove</game_url>
+    <genre>MMORPG</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Trion Worlds</publisher>
+    <developer>Trion Worlds</developer>
+    <release_date>2015-07-09</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/trove</freetogame_profile_url>
+  </games>
+  <games>
+    <id>3</id>
+    <title>Warframe</title>
+    <thumbnail>https://www.freetogame.com/g/3/thumbnail.jpg</thumbnail>
+    <short_description>A cooperative free-to-play third person online action shooter set in an stunning sci-fi world. </short_description>
+    <game_url>https://www.freetogame.com/open/warframe</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Digital Extremes</publisher>
+    <developer>Digital Extremes</developer>
+    <release_date>2013-03-25</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/warframe</freetogame_profile_url>
+  </games>
+  <games>
+    <id>4</id>
+    <title>CRSED: F.O.A.D.</title>
+    <thumbnail>https://www.freetogame.com/g/4/thumbnail.jpg</thumbnail>
+    <short_description>Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)</short_description>
+    <game_url>https://www.freetogame.com/open/crsed</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Gaijin Distribution KFT</publisher>
+    <developer>Darkflow Software</developer>
+    <release_date>2019-12-12</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/crsed</freetogame_profile_url>
+  </games>
+  <games>
+    <id>1</id>
+    <title>Dauntless</title>
+    <thumbnail>https://www.freetogame.com/g/1/thumbnail.jpg</thumbnail>
+    <short_description>A free-to-play, co-op action RPG with gameplay similar to Monster Hunter.</short_description>
+    <game_url>https://www.freetogame.com/open/dauntless</game_url>
+    <genre>MMORPG</genre>
+    <platform>PC (Windows)</platform>
+    <publisher>Phoenix Labs</publisher>
+    <developer>Phoenix Labs, Iron Galaxy</developer>
+    <release_date>2019-05-21</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/dauntless</freetogame_profile_url>
+  </games>
+</GamesList>

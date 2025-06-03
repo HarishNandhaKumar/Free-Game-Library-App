@@ -1,0 +1,49 @@
+[ {
+  "id" : 28,
+  "title" : "Spacelords",
+  "thumbnail" : "https://www.freetogame.com/g/28/thumbnail.jpg",
+  "short_description" : "A free-to-play 4v1 sci-fi shooter. ",
+  "game_url" : "https://www.freetogame.com/open/spacelords",
+  "genre" : "Shooter",
+  "platform" : "PC (Windows)",
+  "publisher" : " MercurySteam Entertainment",
+  "developer" : "MercurySteam",
+  "release_date" : "2018-09-22",
+  "freetogame_profile_url" : "https://www.freetogame.com/spacelords"
+}, {
+  "id" : 319,
+  "title" : "Ace Online",
+  "thumbnail" : "https://www.freetogame.com/g/319/thumbnail.jpg",
+  "short_description" : "A free to play fast action 3D sci-fi MMO where players control space fighters jets.",
+  "game_url" : "https://www.freetogame.com/open/ace-online",
+  "genre" : "Shooter",
+  "platform" : "PC (Windows)",
+  "publisher" : "Suba Games",
+  "developer" : "MasangSoft",
+  "release_date" : "2008-08-29",
+  "freetogame_profile_url" : "https://www.freetogame.com/ace-online"
+}, {
+  "id" : 207,
+  "title" : "Warface",
+  "thumbnail" : "https://www.freetogame.com/g/207/thumbnail.jpg",
+  "short_description" : "A free-to-play multiplayer online FPS from Crytek, makers of the Far Cry and Crysis series of games.",
+  "game_url" : "https://www.freetogame.com/open/warface",
+  "genre" : "Shooter",
+  "platform" : "PC (Windows)",
+  "publisher" : "Crytek",
+  "developer" : "Crytek",
+  "release_date" : "2014-07-01",
+  "freetogame_profile_url" : "https://www.freetogame.com/warface"
+}, {
+  "id" : 469,
+  "title" : "Unfortunate Spacemen",
+  "thumbnail" : "https://www.freetogame.com/g/469/thumbnail.jpg",
+  "short_description" : "Unfortunate Spacemen is a co-op multiplayer game about Shapeshifting with a Co-op Story Mode, lots of objectives and more!",
+  "game_url" : "https://www.freetogame.com/open/unfortunate-spacemen",
+  "genre" : "Shooter",
+  "platform" : "PC (Windows)",
+  "publisher" : "New Blood Interactive",
+  "developer" : "Geoff 'Zag' Keene",
+  "release_date" : "2020-06-12",
+  "freetogame_profile_url" : "https://www.freetogame.com/unfortunate-spacemen"
+} ]
