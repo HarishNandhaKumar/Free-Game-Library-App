@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-03T08:53:17" hostname="LAPTOP-T51V5TF2" time="0.521">
+  <properties/>
+  <testcase name="testGetSingleGame_ExistingGame()" classname="ControllerTest" time="0.487"/>
+  <testcase name="testGetSingleGame_CaseInsensitive()" classname="ControllerTest" time="0.017"/>
+  <testcase name="testGetSingleGame_NonExistingGame()" classname="ControllerTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

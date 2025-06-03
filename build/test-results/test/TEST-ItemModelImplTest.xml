@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ItemModelImplTest" tests="42" skipped="0" failures="0" errors="0" timestamp="2025-06-03T08:53:17" hostname="LAPTOP-T51V5TF2" time="0.646">
+  <properties/>
+  <testcase name="TestSortDeveloperAscending()" classname="ItemModelImplTest" time="0.011"/>
+  <testcase name="testFilterContains()" classname="ItemModelImplTest" time="0.01"/>
+  <testcase name="testLoadList(Path)" classname="ItemModelImplTest" time="0.058"/>
+  <testcase name="TestSortIdAscending()" classname="ItemModelImplTest" time="0.009"/>
+  <testcase name="testFilterEquals()" classname="ItemModelImplTest" time="0.007"/>
+  <testcase name="testSaveList(Path)" classname="ItemModelImplTest" time="0.014"/>
+  <testcase name="testFilterLesser()" classname="ItemModelImplTest" time="0.007"/>
+  <testcase name="TestSearchByName1()" classname="ItemModelImplTest" time="0.012"/>
+  <testcase name="TestSearchByName2()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="testLoadListCsv()" classname="ItemModelImplTest" time="0.014"/>
+  <testcase name="testLoadListXml()" classname="ItemModelImplTest" time="0.135"/>
+  <testcase name="testLoadListJson()" classname="ItemModelImplTest" time="0.017"/>
+  <testcase name="TestRemoveGame()" classname="ItemModelImplTest" time="0.007"/>
+  <testcase name="testNegativeRemoveAll()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="testListPretty()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="testFilterGreaterEqual()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="testListCsv()" classname="ItemModelImplTest" time="0.065"/>
+  <testcase name="testListXml()" classname="ItemModelImplTest" time="0.061"/>
+  <testcase name="TestSortPublisherDescending()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="TestSortGenreDescending()" classname="ItemModelImplTest" time="0.009"/>
+  <testcase name="testNegativeListAll()" classname="ItemModelImplTest" time="0.006"/>
+  <testcase name="testFilterNotEqual()" classname="ItemModelImplTest" time="0.007"/>
+  <testcase name="TestAddGame()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="testNegativeAddAll()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="TestSortDeveloperDescending()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="TestSortReleaseDateDescending()" classname="ItemModelImplTest" time="0.006"/>
+  <testcase name="testNegativeRemove1()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="testNegativeRemove2()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="testAddAll()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="TestSortIdDescending()" classname="ItemModelImplTest" time="0.006"/>
+  <testcase name="TestSortTitleAscending()" classname="ItemModelImplTest" time="0.007"/>
+  <testcase name="testFilterGreater()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="testNegativeSearch1()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="testNegativeSearch2()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="testFilterLesserEqual()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="testSearchByNameCaseInsensitive()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="TestSortGenreAscending()" classname="ItemModelImplTest" time="0.008"/>
+  <testcase name="testRemoveAll()" classname="ItemModelImplTest" time="0.006"/>
+  <testcase name="TestSortPublisherAscending()" classname="ItemModelImplTest" time="0.006"/>
+  <testcase name="TestSortReleaseDateAscending()" classname="ItemModelImplTest" time="0.005"/>
+  <testcase name="TestSortTitleDescending()" classname="ItemModelImplTest" time="0.004"/>
+  <testcase name="testListJson()" classname="ItemModelImplTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

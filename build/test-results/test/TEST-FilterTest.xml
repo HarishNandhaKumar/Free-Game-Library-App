@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FilterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-06-03T08:53:17" hostname="LAPTOP-T51V5TF2" time="0.015">
+  <properties/>
+  <testcase name="testFilterByReleaseDateGreater()" classname="FilterTest" time="0.004"/>
+  <testcase name="testFilterByTitleEquals()" classname="FilterTest" time="0.001"/>
+  <testcase name="testFilterByPlatformNotEqual()" classname="FilterTest" time="0.001"/>
+  <testcase name="testInvalidFilter()" classname="FilterTest" time="0.004"/>
+  <testcase name="testFilterByGenreContains()" classname="FilterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

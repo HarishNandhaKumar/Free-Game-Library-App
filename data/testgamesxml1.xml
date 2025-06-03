@@ -1,0 +1,15 @@
+<GamesList>
+  <games>
+    <id>28</id>
+    <title>Spacelords</title>
+    <thumbnail>https://www.freetogame.com/g/28/thumbnail.jpg</thumbnail>
+    <short_description>A free-to-play 4v1 sci-fi shooter. </short_description>
+    <game_url>https://www.freetogame.com/open/spacelords</game_url>
+    <genre>Shooter</genre>
+    <platform>PC (Windows)</platform>
+    <publisher> MercurySteam Entertainment</publisher>
+    <developer>MercurySteam</developer>
+    <release_date>2018-09-22</release_date>
+    <freetogame_profile_url>https://www.freetogame.com/spacelords</freetogame_profile_url>
+  </games>
+</GamesList>
